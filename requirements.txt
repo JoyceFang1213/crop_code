@@ -1,0 +1,9 @@
+matplotlib==3.4.3
+numpy==1.21.2
+opendatasets==0.1.20
+pandas==1.2.3
+timm==0.5.4
+torch==1.10.0a0+3fd9dcf
+torchsummary==1.5.1
+torchvision==0.11.0a0
+tqdm==4.62.1
